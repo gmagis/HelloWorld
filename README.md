@@ -1,2 +1,3 @@
 # HelloWorld
-My first repository on GitHub
+My first (Gimmy) repository on GitHub .
+Donc je suis un peu perdu mais bon ca va ...
